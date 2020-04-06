@@ -1,0 +1,37 @@
+head{
+	background-color:grey;
+	color:white;
+	line-height:1.5em;
+	h1{color:green;
+	background-color:purple;}
+	h2{color:grey;
+	background-color:white;}
+	h3{color:dark;
+	background-color:white;}
+	h4{color:yellow;
+	background-color:pink;}
+	h5{color:white;
+	background-color:orange}
+	h6{color:white;
+	background-color:blue;}
+	
+}
+body{
+	background-color:black;
+	color:white;
+	line-height:1.5em;
+	font:15px;
+}
+.block1{
+	color:red;
+	background-color:dark:
+	line-height:25em;
+	margin:0;
+}
+.bottom{
+	background-color:black;
+	color:grey;
+	line-height:0.5em;
+	font:10px;
+	margin-bottom:auto;
+}
